@@ -1,2 +1,2 @@
-**The Tools And Other**
-## Is This Mod Added New Varied Of Items For Minecraft Java Edition This Mod Is Already Continued Updating!
+## About
+A Minecraft: Java Edition mod that adds a variety of new items and is actively maintained with continuous updates.
